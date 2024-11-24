@@ -43,7 +43,7 @@ class _PointsCounterState extends State<PointsCounter> {
                       Text(
                         "$teamAPoints",
                         style: const TextStyle(
-                          fontSize: 150,
+                          fontSize: 90,
                         ),
                       ),
                       ElevatedButton(
@@ -125,7 +125,7 @@ class _PointsCounterState extends State<PointsCounter> {
                       Text(
                         "$teamBPoints",
                         style: const TextStyle(
-                          fontSize: 150,
+                          fontSize: 90,
                         ),
                       ),
                       ElevatedButton(
